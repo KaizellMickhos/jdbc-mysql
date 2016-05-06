@@ -8,6 +8,7 @@ import javax.swing.*;
 /**
  *
  * @author nujkram
+ *         kaizell
  */
 public class MySqlConnect {
     Connection myConn = null;
